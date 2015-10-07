@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="textColor" format="reference"/>
+    <attr name="infoTextColor" format="reference"/>
+    <attr name="layout_bg_normal" format="reference"/>
+    <attr name="lineColor" format="reference"/>
+    <attr name="windows_bg" format="reference"/>
+    <attr name="sliding_block_bg" format="reference"/>
+    <attr name="layout_item_bg" format="reference"/>
+    <attr name="editor_color" format="reference"/>
+    <attr name="editor_hit_color" format="reference"/>
+    <attr name="comment_reply_container_bg" format="reference"/>
+    <attr name="message_bg_left" format="reference"/>
+    <attr name="message_bg_right" format="reference"/>
+    <attr name="quickoption_icon_text_selector" format="reference"/>
+    <attr name="quickoption_icon_album_selector" format="reference"/>
+    <attr name="quickoption_icon_photo_selector" format="reference"/>
+    <attr name="quickoption_icon_voice_selector" format="reference"/>
+    <attr name="quickoption_icon_scan_selector" format="reference"/>
+    <attr name="quickoption_icon_note_selector" format="reference"/>
+
+</resources>

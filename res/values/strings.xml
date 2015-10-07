@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">SmartUI</string>
+
+	<string name="tab_item_home">主页</string>
+	<string name="tab_item_category">分类</string>
+	<string name="tab_item_find">发现</string>
+	<string name="tab_item_chat">广场</string>
+	<string name="tab_item_me">我</string>
+
+	<string name="navigation_drawer_open">Open navigation drawer</string>
+	<string name="navigation_drawer_close">Close navigation drawer</string>
+
+	<string name="loading">加载中…</string>
+	<string name="loading_no_more">已加载全部</string>
+
+	<!-- Error View -->
+	<string name="error_view_click_to_refresh">点击屏幕,重新加载</string>
+	<string name="error_view_no_data">暂无内容</string>
+	<string name="error_view_loading">加载中…</string>
+	<string name="error_view_load_error_click_to_refresh">内容加载失败\r\n点击重新加载</string>
+	<string name="error_view_network_error_click_to_refresh">没有可用的网络</string>
+	<string name="tip_network_error">没有可用的网络</string>
+</resources>

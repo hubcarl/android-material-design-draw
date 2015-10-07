@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- day -->
+    <color name="day_colorPrimary">#40AA53</color>
+    <color name="day_colorPrimaryDark">#0b751e</color>
+    <color name="day_textColor">#333333</color>
+    <color name="day_infoTextColor">#999999</color>
+    <color name="day_layout_bg_normal">#f6f6f6</color>
+    <color name="day_layout_bg_pressed">#dfdfdf</color>
+    <color name="day_line_color">#e7e7e7</color>
+    <color name="day_windows_bg">#fafafa</color>
+    <color name="day_edit_color">#333333</color>
+    <color name="day_edit_hit_color">#999999</color>
+
+</resources>

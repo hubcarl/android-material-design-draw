@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#40AA53</color>
+    <color name="colorPrimaryDark">#0b751e</color>
+    <color name="textColor">#333333</color>
+    <color name="infoTextColor">#999999</color>
+    <color name="layout_bg_normal">#f6f6f6</color>
+    <color name="layout_bg_pressed">#dfdfdf</color>
+    <color name="line_color">#e7e7e7</color>
+    <color name="windows_bg">#fafafa</color>
+    <color name="edit_color">#333333</color>
+    <color name="edit_hit_color">#999999</color>
+
+    <!-- 常用颜色值 -->
+    <color name="white40">#40FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#808080</color>
+    <color name="red">#FF0000</color>
+    <color name="gold">#FFD700</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="green">#008000</color>
+    <color name="purple">#800080</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="orange">#FFA500</color>
+    <color name="lemonyellow">#FFFACD</color>
+    <color name="graywhite">#F5F5F5</color>
+    <color name="grayslate">#708090</color>
+    <color name="lightblue">#0083FF</color>
+    
+    <color name="main_green">#40AA53</color>
+    <color name="main_gray">#9A9A9A</color>
+    <color name="main_black">#333</color>
+    <color name="main_purple">#576B95</color>
+    <color name="actionbar_background">@color/main_green</color>
+    <color name="transparent">#00000000</color>
+    <color name="window_background">#EBEBEB</color>
+    
+    <color name="comment_yellow">#FFFFEE</color>
+    
+    <color name="link_color">#1d6a2a</color>
+    
+    <color name="main_background">#ffebedf0</color>
+    <color name="list_divider_color">#DADADA</color>
+    <color name="list_item_background_normal">@color/white</color>
+    <color name="teamlist_item_background_normal">#ffffff</color>
+    <color name="list_item_background_pressed">#efefef</color>
+    
+ 	<color name="drawer_menu_item_background_normal">#e2e2e2</color>
+    <color name="drawer_menu_item_background_pressed">#ebeceb</color>
+    
+    <color name="actionbar_item_background_normal">@color/transparent</color>
+    <color name="actionbar_item_background_pressed">#0b751e</color>
+    
+    <color name="ui_dialog_divider">@color/list_divider_color</color>
+    <color name="ui_dialog_list_text">#5E5E5E</color>
+    <color name="text_dark">#af000000</color>
+    <color name="text_light">#3f000000</color>
+    <color name="light_gray">#1a000000</color>
+    <color name="lightest_gray">#0a000000</color>
+    <color name="bg_touch">@color/lightest_gray</color>
+    
+    <color name="main_link_text_color">#ffbedfff</color>
+    <color name="timeline_clickable_text_highlighted_background">#ffbedfff</color>
+    
+    <!-- 下拉刷新时，颜色值 -->
+    <color name="swiperefresh_color1">#ff00ddff</color>
+    <color name="swiperefresh_color2">#ffffbb33</color>
+    <color name="swiperefresh_color3">#ffff4444</color>
+    <color name="swiperefresh_color4">#ffaa66cc</color>
+    
+    <color name="project_listitem_title">#294fa1</color>
+    <color name="project_listitem_description">#515151</color>
+    <color name="project_listitem_someinfo">#b6b6b6</color>
+    
+
+	<color name="project_detail_item">#e2e0e0</color>
+	
+	<color name="my_information_option_pressed">#18be40</color>
+	
+	<!-- 反馈 -->
+	<color name="text_color_account_info">#ff5e5546</color>
+	<color name="edittext_hint_color">#ffa9a9a9</color>
+	
+	<!-- 日历dialog -->
+    <color name="circle_background">#fff2f2f2</color>
+    <color name="line_background">#ffcccccc</color>
+    <color name="done_text_color_normal">#ff333333</color>
+    <color name="done_text_color_disabled">#ffcccccc</color>
+    <color name="blue">#ff33cc33</color>
+    <color name="darker_blue">#ff00cc99</color>
+    <color name="date_picker_text_normal">#ff999999</color>
+    <color name="calendar_header">#ff999999</color>
+    <color name="date_picker_view_animator">#fff2f2f2</color>
+
+    <color name="ampm_text_color">#8c8c8c</color>
+    <color name="numbers_text_color">#8c8c8c</color>
+
+    <color name="transparent_black">#7F000000</color>
+    
+    <color name="spinner_background">#464646</color>
+    <color name="spinner_background_press">#6baf77</color>
+
+
+</resources>

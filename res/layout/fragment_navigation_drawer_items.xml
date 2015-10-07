@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#e2e2e2"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/menu_item_quests"
+        style="@style/MenuItemLayoutStyle" >
+
+        <ImageView
+            style="@style/MenuItemImageViewStyle"
+            android:src="@drawable/ic_launcher"
+            android:contentDescription="@null" />
+
+        <TextView
+            style="@style/MenuItemTextViewStyle"
+            android:gravity="center"
+            android:text="菜单一" />
+    </LinearLayout>
+
+    <View
+        style="@style/h_line" />
+
+    <LinearLayout
+        android:id="@+id/menu_item_opensoft"
+        style="@style/MenuItemLayoutStyle" >
+
+        <ImageView
+            style="@style/MenuItemImageViewStyle"
+            android:src="@drawable/ic_launcher"
+            android:contentDescription="@null" />
+
+        <TextView
+            style="@style/MenuItemTextViewStyle"
+            android:text="菜单2" />
+    </LinearLayout>
+
+    <View
+        style="@style/h_line" />
+
+    <LinearLayout
+        android:id="@+id/menu_item_blog"
+        style="@style/MenuItemLayoutStyle" >
+
+        <ImageView
+            style="@style/MenuItemImageViewStyle"
+            android:src="@drawable/ic_launcher"
+            android:contentDescription="@null" />
+
+        <TextView
+            style="@style/MenuItemTextViewStyle"
+            android:text="菜单三" />
+    </LinearLayout>
+
+    <View
+        style="@style/h_line" />
+    
+    <LinearLayout
+        android:id="@+id/menu_item_gitapp"
+        style="@style/MenuItemLayoutStyle" >
+
+        <ImageView
+            style="@style/MenuItemImageViewStyle"
+            android:src="@drawable/ic_launcher"
+            android:contentDescription="@null" />
+
+        <TextView
+            style="@style/MenuItemTextViewStyle"
+            android:text="菜单四" />
+    </LinearLayout>
+
+    <View
+        style="@style/h_line" />
+
+</LinearLayout>
